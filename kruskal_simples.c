@@ -1,3 +1,6 @@
+//Grupo
+//Pedro Gabriel Guimarães Fernandes RA: 10437465
+
 #include <stdio.h>
 #include <stdlib.h>
 
