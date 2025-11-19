@@ -1,5 +1,6 @@
 //Grupo
 //Pedro Gabriel Guimarães Fernandes RA: 10437465
+//Tarik Nasser Ferreira Kanbour RA:10435895
 
 #include <stdio.h>
 #include <stdlib.h>
